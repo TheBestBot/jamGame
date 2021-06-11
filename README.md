@@ -1,2 +1,1 @@
-# jamGame
-libGDX based amazing game
+vibing with unity
